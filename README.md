@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm @Vidhi Koshatwar
 
-<!--
-**SyntaxSugar06/SyntaxSugar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  🚀 Profile Summary
+Aspiring data analyst with a strong passion for analyzing data and extracting meaningful insights. I am dedicated to improving my skills in this field and am learning various analytical tools like SQL, Power BI, Excel, Tableau to support data-driven decisions. My goal is to help organizations achieve their objectives through effective data analysis, and I aim to gain expertise to make impactful contributions.
 
-Here are some ideas to get you started:
+###  👀 I’m interested in ...
+- Data Analytics
+- Data Visualization
+- Data Modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  🛠️ Technical Skills
+
+- Power BI – Extract Transform & Load [ETL], Data Modelling, DAX, Parameters, Power query editor, calculated columns, Row Level Security [RLS], Relationships, Reports, Dashboards, Publishing and schedule refresh.
+- Tableau – Data Modelling, Data Blending, Calculated fields, Parameters, Lod’s, Table Calculations, Dashboards.
+- Python – Variables, data types, data structures, modules & libraries (NumPy, SciPy, pandas, matplotlib, Seaborn).
+- MY SQL – Data types, Variables, joins, sub-queries, views, Window functions, CTEs, stored procedures & functions.
+- Advanced Excel – lookups, pivot Tables, power pivot, charts, formulas (viz. sumifs, countifs, nested ifs), conditional formatting, sorting, grouping, auto/advanced filters, Macros &VBA.
